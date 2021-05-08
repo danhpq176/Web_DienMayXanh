@@ -16,8 +16,9 @@ import {
 	SocialMedia,
 	ZaloSticky,
 } from 'Components'
-import { Product, PostsPage, Contact, HomePage } from 'pages'
+import { Product, PostsPage, Contact, HomePage, ProductByType } from 'pages'
 import { Switch, Route } from 'react-router-dom'
+import { productsType } from 'constants/list-type'
 import { listOldProduct } from 'constants/old-products'
 import { listContentServices } from 'constants/content-services'
 import { listServicesWithImg } from 'constants/list-services-img'
@@ -78,6 +79,11 @@ function App() {
 							{listContentServices.map((list, index) => (
 								<Route key={index} exact path={`/services/${list.href}`}>
 									<PostsPage list={list} />
+								</Route>
+							))}
+							{productsType.map((type, index) => (
+								<Route key={index} exact path={`/products/${type}`}>
+									<ProductByType products={products || []} type={type} />
 								</Route>
 							))}
 							<Route exact path='/services'>

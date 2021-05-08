@@ -1,5 +1,6 @@
 import React from 'react'
 import './ProductList.css'
+import { removeAccents } from 'services/filter'
 
 export const ProductList = ({ list }) => {
 	return (
@@ -10,7 +11,9 @@ export const ProductList = ({ list }) => {
 						<img src={item.imgUrl} alt=''></img>
 					</div>
 					<h2 className='title-pro'>
-						<a href={() => false}>{item.name}</a>
+						<a href={`products/${removeAccents(item.type).toLowerCase().replaceAll(' ', '-')}`}>
+							{item.name}
+						</a>
 					</h2>
 					<div className='status-pro'>
 						<p>Tình trạng: Còn hàng</p>

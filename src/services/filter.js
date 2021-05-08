@@ -1,6 +1,5 @@
 import React from 'react'
 import { useGetProducts } from 'queries/useProducts'
-import {} from 'constants/'
 
 export const useFilterProducts = () => {
 	const { data: products } = useGetProducts()
@@ -17,11 +16,39 @@ export const useFilterByNumber = () => {
 	React.useEffect(() => {
 		if (products) {
 			const temp = []
-			for (let i = 0; i < 6; i += 1) {
-				temp.push(products[i])
+			for (let i = 0; i < products.length; i += 1) {
+				if (temp.length === 0) {
+					temp.push(products[i])
+				} else {
+					for (let j = 0; j < temp.length; j++) {
+						if (products[i].type === temp[j].type) {
+							console.log(products[i].type === temp[j].type)
+						} else {
+							if (j === temp.length - 1) {
+								temp.push(products[i])
+							}
+						}
+					}
+				}
 			}
+
 			setProductsFilter(temp)
 		}
 	}, [products])
 	return productsFilter
+}
+export function removeAccents(str) {
+	return str
+		.normalize('NFD')
+		.replace(/[\u0300-\u036f]/g, '')
+		.replace(/đ/g, 'd')
+		.replace(/Đ/g, 'D')
+}
+export const useFilterByType = () => {
+	return (products, route) => {
+		return products.filter((product) => {
+			const reAccent = removeAccents(product.type).toLowerCase().replaceAll(' ', '-')
+			return reAccent === route
+		})
+	}
 }
