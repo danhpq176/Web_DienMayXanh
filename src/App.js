@@ -16,7 +16,7 @@ import {
 	SocialMedia,
 	ZaloSticky,
 } from 'Components'
-import { Product, PostsPage, Contact, HomePage, ProductByType } from 'pages'
+import { Product, PostsPage, Contact, HomePage } from 'pages'
 import { Switch, Route } from 'react-router-dom'
 import { productsType } from 'constants/list-type'
 import { listOldProduct } from 'constants/old-products'
