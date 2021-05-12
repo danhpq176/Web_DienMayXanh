@@ -22,12 +22,12 @@ export const listFooter = [
 	},
 	{
 		title: 'Điện thoại',
-		content: '0917323239',
+		content: '0888262052 ',
 		icon: faPhone,
 	},
 	{
 		title: 'Hotline',
-		content: '0917323239',
+		content: '0888262052 ',
 		icon: faPhone,
 	},
 	{

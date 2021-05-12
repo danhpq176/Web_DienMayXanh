@@ -98,12 +98,12 @@ export const listAddress = [
 	},
 	{
 		name: 'Điện thoại',
-		content: '0917323239',
+		content: '0888262052',
 		icon: faPhone,
 	},
 	{
 		name: 'Hotline',
-		content: '0917323239',
+		content: '0888262052',
 		icon: faStreetView,
 	},
 	{

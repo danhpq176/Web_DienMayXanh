@@ -7,12 +7,12 @@ export const listHotline = [
 			{
 				icon: faStreetView,
 				name: 'Điện thoại',
-				phoneNumber: '0917323239',
+				phoneNumber: '0888262052',
 			},
 			{
 				icon: faStreetView,
 				name: 'Hotline',
-				phoneNumber: '0917323239',
+				phoneNumber: '0888262052',
 			},
 		],
 	},
@@ -22,12 +22,12 @@ export const listHotline = [
 			{
 				icon: faStreetView,
 				name: 'Điện thoại',
-				phoneNumber: '0917323239',
+				phoneNumber: '0888262052',
 			},
 			{
 				icon: faStreetView,
 				name: 'Hotline',
-				phoneNumber: '0917323239',
+				phoneNumber: '0888262052',
 			},
 		],
 	},
@@ -37,12 +37,12 @@ export const listHotline = [
 			{
 				icon: faStreetView,
 				name: 'Điện thoại',
-				phoneNumber: '0917323239',
+				phoneNumber: '0888262052',
 			},
 			{
 				icon: faStreetView,
 				name: 'Hotline',
-				phoneNumber: '0917323239',
+				phoneNumber: '0888262052',
 			},
 		],
 	},

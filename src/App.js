@@ -82,9 +82,7 @@ function App() {
 								</Route>
 							))}
 							{productsType.map((type, index) => (
-								<Route key={index} exact path={`/products/${type}`}>
-									<ProductByType products={products || []} type={type} />
-								</Route>
+								<Route key={index} exact path={`/products/${type}`}></Route>
 							))}
 							<Route exact path='/services'>
 								<News title='Dịch vụ' list={listServicesWithImg} />

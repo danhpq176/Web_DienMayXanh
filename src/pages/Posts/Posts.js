@@ -40,19 +40,19 @@ export const PostsPage = ({ list }) => {
 						<b>Sửa chữa điện máy xanh</b>
 					</h2>
 					<span>
-						<b>Trụ sở chính: </b> Cao ốc A, Ngô Gia Tự, Phường 3, Quận 10, TP HCM
+						<b>Trụ sở chính: </b>179B Lý Thường Kiệt, phường 8, Quận Tân Bình
 					</span>
 					<span>
-						<b>Tỉnh/TP:</b>
+						<b>Tỉnh/TP:</b>Thành phố Hồ Chí Minh
 					</span>
 					<span>
-						<b>Quốc gia:</b>
+						<b>Quốc gia:</b>Việt Nam
 					</span>
 					<span>
-						<b>Hotline:</b> 02862751423
+						<b>Hotline:</b> 0888262052
 					</span>
 					<span>
-						<b>Điện thoại:</b> 0397575917
+						<b>Điện thoại:</b> 0888262052
 					</span>
 					<span>
 						<b>E-mail:</b> suachua-dienmayxanh@gmail.com

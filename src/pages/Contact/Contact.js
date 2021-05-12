@@ -63,7 +63,7 @@ export const Contact = () => {
 					<h3>Điện máy Xanh</h3>
 					<div className='sub-content'>
 						<div className='label'>Trụ sở chính:</div>
-						<div>Cao ốc A, Ngô Gia Tự, Phường 3, Quận 10, TP HCM</div>
+						<div>179B Lý Thường Kiệt, phường 8, Quận Tân Bình TP.HCM</div>
 					</div>
 					<div className='sub-content'>
 						<div className='label'>Chi nhánh:</div>
@@ -75,11 +75,11 @@ export const Contact = () => {
 					</div>
 					<div className='sub-content'>
 						<div className='label'>Điên thoại:</div>
-						<a href='www.suachua-dienmayxanh.com'>0123456789</a>
+						<a href='www.suachua-dienmayxanh.com'>0888262052</a>
 					</div>
 					<div className='sub-content'>
 						<div className='label'>Hotline:</div>
-						<a href='www.suachua-dienmayxanh.com'>1900 8889</a>
+						<a href='www.suachua-dienmayxanh.com'>0888262052</a>
 					</div>
 					<div className='sub-content'>
 						<div className='label'>E-mail:</div>

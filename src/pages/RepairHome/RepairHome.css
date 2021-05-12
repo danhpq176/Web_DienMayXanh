@@ -1,0 +1,39 @@
+.repair-page {
+}
+.repair-page .title {
+  padding: 10px 0;
+  background-color: var(--primary);
+  color: white;
+  margin-bottom: 20px;
+  font-weight: 600;
+  text-transform: uppercase;
+  text-align: center;
+  font-size: 20px;
+}
+.box-repair {
+}
+.item-repair {
+  border: 1px solid #ddd;
+  padding: 0 30px;
+  margin-bottom: 20px;
+}
+.item-repair .head-repair {
+  font-weight: 600;
+  margin: 20px 0;
+  font-size: 18px;
+}
+.item-repair .img-repair {
+  text-align: center;
+}
+.item-repair img {
+  width: 70%;
+}
+.item-repair .title-repair {
+  font-weight: 600;
+  font-size: 17px;
+  padding-left: 22px;
+}
+.item-repair .content-repair {
+  margin: 20px 0;
+  font-size: 15px;
+}
