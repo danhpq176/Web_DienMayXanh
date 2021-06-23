@@ -225,7 +225,7 @@ export const listContentRepairServices = [
 			className: 'content',
 		},
 		picture6: {
-			imgUrl: 'https://res.cloudinary.com/danhpq17/image/upload/v1619771746/suativi6_xtauz7.jpg',
+			imgUrl: 'https://res.cloudinary.com/danhpq17/image/upload/v1619776351/maylanh4_op0x6b.jpg',
 			className: 'img',
 		},
 		href: 'sua-may-lanh',
