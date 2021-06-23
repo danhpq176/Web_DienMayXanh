@@ -19,7 +19,7 @@ export const listContentRepairServices = [
 			className: 'content',
 		},
 		picture1: {
-			imgUrl: 'https://res.cloudinary.com/danhpq17/image/upload/v1619771668/suativi1_owun7q.jpg',
+			imgUrl: 'https://res.cloudinary.com/danhpq17/image/upload/v1624422187/suativimoi3_gptqdn.jpg',
 			className: 'img',
 		},
 		title2: {
@@ -35,7 +35,7 @@ export const listContentRepairServices = [
 			className: 'content',
 		},
 		picture2: {
-			imgUrl: 'https://res.cloudinary.com/danhpq17/image/upload/v1619771678/suativi2_d49bol.jpg',
+			imgUrl: 'https://res.cloudinary.com/danhpq17/image/upload/v1624420693/suativimoi1_bms5xf.jpg',
 			className: 'img',
 		},
 		title3: {
@@ -52,7 +52,7 @@ export const listContentRepairServices = [
 			className: 'content',
 		},
 		picture3: {
-			imgUrl: 'https://res.cloudinary.com/danhpq17/image/upload/v1619771742/suativi3_jr1jxv.jpg',
+			imgUrl: 'https://res.cloudinary.com/danhpq17/image/upload/v1620795397/suativi_e9fjpn.jpg',
 			className: 'img',
 		},
 		title4: {
@@ -71,7 +71,7 @@ export const listContentRepairServices = [
 			className: 'content',
 		},
 		picture4: {
-			imgUrl: 'https://res.cloudinary.com/danhpq17/image/upload/v1619771743/suativi4_arevio.jpg',
+			imgUrl: 'https://res.cloudinary.com/danhpq17/image/upload/v1624420693/Suativimoi2_oyilmp.jpg',
 			className: 'img',
 		},
 		title5: {
@@ -89,8 +89,8 @@ export const listContentRepairServices = [
 			className: 'content',
 		},
 		picture5: {
-			imgUrl: 'https://res.cloudinary.com/danhpq17/image/upload/v1619771744/suativi5_yhx4mg.jpg',
-			className: 'img',
+			imgUrl: '',
+			className: '',
 		},
 		title6: {
 			content: '3. BỆNH PANEL(màn hình LCD)',
@@ -107,7 +107,7 @@ export const listContentRepairServices = [
 			className: 'content',
 		},
 		picture6: {
-			imgUrl: 'https://res.cloudinary.com/danhpq17/image/upload/v1619771746/suativi6_xtauz7.jpg',
+			imgUrl: 'https://res.cloudinary.com/danhpq17/image/upload/v1624422787/tivimoi4_dup8ht.jpg',
 			className: 'img',
 		},
 		href: 'tho-sua-tivi-tai-nha',
