@@ -50,7 +50,7 @@ function App() {
 	const { data: products, status } = useGetProducts()
 	return (
 		<div className='App'>
-			<ZaloSticky />
+			{/* <ZaloSticky /> */}
 			<PhoneCall />
 			<SocialMedia />
 			<ScrollButton />
