@@ -193,7 +193,8 @@ export const listContentRepairServices = [
 			className: '',
 		},
 		title4: {
-			content: '4. Quy trình sửa máy lạnh 24/24 tại Limosa uy tín, chuyên nghiệp như thế nào?',
+			content:
+				'4. Quy trình sửa máy lạnh 24/24 tại Điện máy xanh uy tín, chuyên nghiệp như thế nào?',
 			className: 'title',
 		},
 		content4: {
