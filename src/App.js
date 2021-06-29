@@ -14,7 +14,6 @@ import {
 	ScrollButton,
 	PhoneCall,
 	SocialMedia,
-	ZaloSticky,
 } from 'Components'
 import { Product, PostsPage, Contact, HomePage } from 'pages'
 import { Switch, Route } from 'react-router-dom'
@@ -50,7 +49,6 @@ function App() {
 	const { data: products, status } = useGetProducts()
 	return (
 		<div className='App'>
-			{/* <ZaloSticky /> */}
 			<PhoneCall />
 			<SocialMedia />
 			<ScrollButton />
