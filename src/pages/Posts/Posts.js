@@ -52,7 +52,7 @@ export const PostsPage = ({ list }) => {
 						<b>Hotline:</b> 0888262052
 					</span>
 					<span>
-						<b>Điện thoại:</b> 0888262052
+						<b>Điện thoại:</b> 0899302728
 					</span>
 					<span>
 						<b>E-mail:</b> suachua-dienmayxanh@gmail.com

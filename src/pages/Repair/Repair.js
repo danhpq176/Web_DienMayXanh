@@ -41,10 +41,10 @@ export const RepairPage = ({ list }) => {
 						<b>Quốc gia:</b>
 					</span>
 					<span>
-						<b>Hotline:</b> 02862751423
+						<b>Hotline:</b> 0888262052
 					</span>
 					<span>
-						<b>Điện thoại:</b> 0397575917
+						<b>Điện thoại:</b> 0899302728
 					</span>
 					<span>
 						<b>E-mail:</b> suachua-dienmayxanh@gmail.com

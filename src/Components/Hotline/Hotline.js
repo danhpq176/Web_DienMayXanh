@@ -8,7 +8,7 @@ export const Hotline = () => {
 		<div className='hotline'>
 			<span>Chăm Sóc Điện Máy Chính Hãng 100%</span>
 			<span className='phone-number'>
-				<FontAwesomeIcon icon={faPhoneSquareAlt} /> Hotline: 0888262052 - 0888262052{' '}
+				<FontAwesomeIcon icon={faPhoneSquareAlt} /> Hotline: 0888262052 - 0899302728{' '}
 			</span>
 		</div>
 	)

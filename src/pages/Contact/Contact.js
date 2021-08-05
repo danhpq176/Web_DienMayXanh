@@ -79,7 +79,7 @@ export const Contact = () => {
 					</div>
 					<div className='sub-content'>
 						<div className='label'>Hotline:</div>
-						<a href='www.suachua-dienmayxanh.com'>0888262052</a>
+						<a href='www.suachua-dienmayxanh.com'>0899302728</a>
 					</div>
 					<div className='sub-content'>
 						<div className='label'>E-mail:</div>

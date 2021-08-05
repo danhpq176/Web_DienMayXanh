@@ -12,7 +12,7 @@ export const listHotline = [
 			{
 				icon: faStreetView,
 				name: 'Hotline',
-				phoneNumber: '0888262052',
+				phoneNumber: '0899302728',
 			},
 		],
 	},
@@ -27,7 +27,7 @@ export const listHotline = [
 			{
 				icon: faStreetView,
 				name: 'Hotline',
-				phoneNumber: '0888262052',
+				phoneNumber: '0899302728',
 			},
 		],
 	},
@@ -42,7 +42,7 @@ export const listHotline = [
 			{
 				icon: faStreetView,
 				name: 'Hotline',
-				phoneNumber: '0888262052',
+				phoneNumber: '0899302728',
 			},
 		],
 	},

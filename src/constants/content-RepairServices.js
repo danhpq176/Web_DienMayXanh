@@ -10,7 +10,7 @@ export const listContentRepairServices = [
 			className: 'head-title',
 		},
 		title1: {
-			content: 'Sửa tivi tại nhà tất cả các quận TP-HCM',
+			content: '1. Sửa tivi tại nhà tất cả các quận TP-HCM',
 			className: 'title',
 		},
 		content1: {
@@ -23,7 +23,7 @@ export const listContentRepairServices = [
 			className: 'img',
 		},
 		title2: {
-			content: 'Vì sao bạn nên chọn dịch vụ sửa tivi tại nhà của chúng tôi ?',
+			content: '2. Vì sao bạn nên chọn dịch vụ sửa tivi tại nhà của chúng tôi ?',
 			className: 'title',
 		},
 		content2: {
@@ -39,7 +39,7 @@ export const listContentRepairServices = [
 			className: 'img',
 		},
 		title3: {
-			content: 'Chúng tôi luôn cam kết',
+			content: '3. Chúng tôi luôn cam kết',
 			className: 'title',
 		},
 		content3: {
@@ -56,12 +56,11 @@ export const listContentRepairServices = [
 			className: 'img',
 		},
 		title4: {
-			content: 'Chúng tôi sửa chữa tất cả các bệnh tivi thường gặp',
+			content: '4. Chúng tôi sửa chữa tất cả các bệnh tivi thường gặp',
 			className: 'title',
 		},
 		content4: {
 			content: [
-				'1. BỆNH NGUỒN',
 				'Có mùi khét do cháy nổ cầu chì.',
 				'Có hiện tượng bật máy không lên gì.',
 				'Tivi bật máy 5-15 phút mới khởi động.',
