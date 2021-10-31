@@ -52,13 +52,13 @@ export const PostsPage = ({ list }) => {
 						<b>Hotline:</b> 0888262052
 					</span>
 					<span>
-						<b>Điện thoại:</b> 0899302728
+						<b>Điện thoại:</b> 0888262052
 					</span>
 					<span>
-						<b>E-mail:</b> suachua-dienmayxanh@gmail.com
+						<b>E-mail:</b> trungtambaohanh-dienmayxanh.com@gmail.com
 					</span>
 					<span>
-						<b>Website: </b> suachua-dienmayxanh.vn
+						<b>Website: </b> www.trungtambaohanh-dienmayxanh.com
 					</span>
 				</div>
 			</div>
