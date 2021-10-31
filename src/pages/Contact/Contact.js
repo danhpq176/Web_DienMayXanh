@@ -79,15 +79,17 @@ export const Contact = () => {
 					</div>
 					<div className='sub-content'>
 						<div className='label'>Hotline:</div>
-						<a href='www.suachua-dienmayxanh.com'>0899302728</a>
+						<a href='www.suachua-dienmayxanh.com'>0888262052</a>
 					</div>
 					<div className='sub-content'>
 						<div className='label'>E-mail:</div>
-						<div>suachuadienmayxanh@gmail.com</div>
+						<div>trungtambaohanh-dienmayxanh.com@gmail.com</div>
 					</div>
 					<div className='sub-content'>
 						<div className='label'>Website:</div>
-						<a href='www.suachua-dienmayxanh.com'>www.dienmayxanh.com</a>
+						<a href='https://www.trungtambaohanh-dienmayxanh.com/'>
+							www.trungtambaohanh-dienmayxanh.com
+						</a>
 					</div>
 				</div>
 				<div className='right-info'>
