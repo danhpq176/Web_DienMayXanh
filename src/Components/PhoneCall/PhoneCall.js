@@ -6,10 +6,10 @@ import './PhoneCall.css'
 export const PhoneCall = () => {
 	return (
 		<div className='phone-call'>
-			<div onClick={() => window.open('tel:0888262052', '_self')} className='call-animation'>
+			<div onClick={() => window.open('tel:0899302728', '_self')} className='call-animation'>
 				<FontAwesomeIcon icon={faPhone} />
 			</div>
-			<span className='phone'>0888262052</span>
+			<span className='phone'>0899302728</span>
 		</div>
 	)
 }
